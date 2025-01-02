@@ -10,7 +10,7 @@ export default function App() {
         <Text style={styles.header}>hoidanit1</Text>
         <Text style={styles.parent}>
           hoidanit2
-          <Text style={styles.child}>bla bla</Text>
+          <Text style={styles.child}>bla 123 fix code </Text>
         </Text>
       </View>
       <Text style={styles.hello1}>Hello World 1</Text>
